@@ -45,6 +45,9 @@ nav {
     font-weight: bold;
     border: none;
 }
+.btn:hover {
+  background-color: #e4fc5e; 
+}
 
 .primary {
     height: 48px;
